@@ -1,0 +1,7 @@
+/node_modules/*
+/coverage/*
+/dist/*
+.*
+!.gitignore
+!.travis.yml
+npm-debug.log
