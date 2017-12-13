@@ -1,6 +1,6 @@
 {
   "name": "plumbarius",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodes for streaming over arbitrary graphs.",
   "main": "dist/index.bundle.js",
   "scripts": {
